@@ -50,13 +50,6 @@ It uses a dataset of students enrolled across multiple departments over several 
 
 ---
 
-## 🖼️ Dashboard Screenshots
-
-> ![Dashboard Overview](screenshots/dashboard_overview.png)
->
-> ![Attendance vs Marks](screenshots/attendance_vs_marks.png)
-
----
 
 ## 🛠 Tools Used
 
