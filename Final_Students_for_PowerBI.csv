@@ -1,0 +1,201 @@
+Student_ID,Name,Gender,Age,Department,Admission_Year,Semester,Marks,Attendance (%),Result
+S001,Student_1,Male,18,Electrical,2020,7,71.3,62.8,Fail
+S002,Student_2,Male,19,Computer Science,2019,4,65.5,85.7,Pass
+S003,Student_3,Female,18,Computer Science,2019,5,71.4,61.1,Fail
+S004,Student_4,Male,19,Electronics,2019,7,40.2,83.4,Pass
+S005,Student_5,Male,23,Electronics,2022,3,66.7,97.6,Pass
+S006,Student_6,Male,21,Electronics,2021,8,75.4,83.0,Pass
+S007,Student_7,Male,24,Mechanical,2022,5,92.2,75.5,Pass
+S008,Student_8,Female,20,Mechanical,2020,5,62.2,85.7,Pass
+S009,Student_9,Female,18,Computer Science,2022,7,57.9,78.3,Pass
+S010,Student_10,Male,20,Electrical,2021,2,62.5,81.8,Pass
+S011,Student_11,Male,23,Civil,2019,3,83.7,97.7,Pass
+S012,Student_12,Female,18,Electronics,2021,7,74.9,75.4,Pass
+S013,Student_13,Female,22,Mechanical,2019,3,62.1,98.4,Pass
+S014,Student_14,Male,23,Mechanical,2021,3,77.7,96.2,Pass
+S015,Student_15,Male,24,Mechanical,2019,8,71.5,67.8,Fail
+S016,Student_16,Female,20,Civil,2021,5,84.5,62.8,Fail
+S017,Student_17,Male,20,Electrical,2020,4,59.5,64.0,Fail
+S018,Student_18,Female,23,Computer Science,2020,8,65.1,60.7,Fail
+S019,Student_19,Male,19,Civil,2022,8,64.1,63.8,Fail
+S020,Student_20,Female,23,Electronics,2020,3,48.0,87.3,Pass
+S021,Student_21,Female,24,Computer Science,2020,6,74.4,62.8,Fail
+S022,Student_22,Male,24,Electrical,2022,5,73.9,72.8,Fail
+S023,Student_23,Female,18,Mechanical,2021,2,70.1,93.8,Pass
+S024,Student_24,Male,23,Civil,2022,8,66.5,60.9,Fail
+S025,Student_25,Female,19,Electrical,2020,4,48.8,92.6,Pass
+S026,Student_26,Male,23,Electronics,2021,6,63.7,71.3,Fail
+S027,Student_27,Female,22,Civil,2021,6,64.9,64.7,Fail
+S028,Student_28,Male,19,Electronics,2022,2,58.0,87.9,Pass
+S029,Student_29,Male,24,Computer Science,2019,8,67.6,85.2,Pass
+S030,Student_30,Male,23,Mechanical,2022,4,76.1,95.1,Pass
+S031,Student_31,Male,21,Civil,2022,5,98.3,89.4,Pass
+S032,Student_32,Female,22,Computer Science,2019,1,72.6,92.1,Pass
+S033,Student_33,Female,24,Electrical,2019,4,73.9,71.3,Fail
+S034,Student_34,Female,21,Mechanical,2022,2,68.9,67.1,Fail
+S035,Student_35,Male,23,Electrical,2020,6,41.2,90.0,Pass
+S036,Student_36,Male,24,Electrical,2020,5,69.6,92.3,Pass
+S037,Student_37,Male,20,Mechanical,2019,4,70.9,99.6,Pass
+S038,Student_38,Female,21,Computer Science,2019,1,100.0,76.5,Pass
+S039,Student_39,Female,24,Electrical,2020,1,67.1,74.9,Fail
+S040,Student_40,Male,19,Electronics,2019,3,74.5,91.1,Pass
+S041,Student_41,Male,23,Civil,2019,3,69.5,73.6,Fail
+S042,Student_42,Male,19,Civil,2020,7,52.5,97.2,Pass
+S043,Student_43,Female,22,Electronics,2022,2,87.1,94.3,Pass
+S044,Student_44,Male,22,Mechanical,2021,8,81.3,77.2,Pass
+S045,Student_45,Female,23,Electrical,2022,4,81.9,90.0,Pass
+S046,Student_46,Female,18,Mechanical,2020,4,56.4,90.2,Pass
+S047,Student_47,Male,20,Computer Science,2020,8,91.0,64.1,Fail
+S048,Student_48,Male,18,Computer Science,2019,7,49.0,96.1,Pass
+S049,Student_49,Male,18,Computer Science,2021,6,78.8,80.2,Pass
+S050,Student_50,Male,22,Mechanical,2021,6,100.0,93.1,Pass
+S051,Student_51,Female,19,Electronics,2020,7,55.1,72.8,Fail
+S052,Student_52,Female,19,Civil,2022,6,61.5,95.8,Pass
+S053,Student_53,Male,18,Computer Science,2022,3,71.5,75.6,Pass
+S054,Student_54,Female,21,Civil,2022,4,62.4,60.4,Fail
+S055,Student_55,Male,23,Computer Science,2019,7,46.7,96.2,Pass
+S056,Student_56,Female,23,Electrical,2019,4,71.0,63.7,Fail
+S057,Student_57,Male,19,Mechanical,2022,8,54.1,72.8,Fail
+S058,Student_58,Male,21,Mechanical,2021,1,77.1,98.0,Pass
+S059,Student_59,Female,19,Computer Science,2022,3,56.2,98.0,Pass
+S060,Student_60,Male,18,Electronics,2019,5,93.2,82.9,Pass
+S061,Student_61,Male,24,Mechanical,2020,3,58.3,85.3,Pass
+S062,Student_62,Female,21,Civil,2020,7,65.2,77.9,Pass
+S063,Student_63,Female,18,Mechanical,2022,5,82.2,71.7,Fail
+S064,Student_64,Male,21,Electrical,2022,1,51.5,73.1,Fail
+S065,Student_65,Female,21,Electronics,2022,7,73.4,86.9,Pass
+S066,Student_66,Male,19,Electrical,2020,2,89.6,90.1,Pass
+S067,Student_67,Male,22,Electronics,2019,4,45.9,91.7,Pass
+S068,Student_68,Female,18,Computer Science,2022,1,72.8,91.6,Pass
+S069,Student_69,Male,18,Electronics,2019,4,73.9,63.6,Fail
+S070,Student_70,Male,18,Electronics,2019,6,81.7,79.8,Pass
+S071,Student_71,Male,21,Computer Science,2020,2,51.4,62.3,Fail
+S072,Student_72,Male,22,Computer Science,2022,2,50.2,82.0,Pass
+S073,Student_73,Female,20,Mechanical,2021,1,77.8,77.7,Pass
+S074,Student_74,Male,20,Civil,2020,2,74.5,95.5,Pass
+S075,Student_75,Female,21,Electrical,2019,5,73.8,74.0,Fail
+S076,Student_76,Male,21,Electronics,2019,2,75.2,64.7,Fail
+S077,Student_77,Male,22,Mechanical,2021,4,59.8,65.7,Fail
+S078,Student_78,Male,20,Computer Science,2020,4,73.5,90.5,Pass
+S079,Student_79,Female,20,Mechanical,2022,7,74.4,84.7,Pass
+S080,Student_80,Female,22,Electronics,2019,4,59.3,64.0,Fail
+S081,Student_81,Female,23,Computer Science,2020,7,98.0,63.4,Fail
+S082,Student_82,Female,18,Computer Science,2020,4,77.1,88.0,Pass
+S083,Student_83,Female,20,Electronics,2020,5,52.1,62.9,Fail
+S084,Student_84,Female,19,Electrical,2022,8,79.8,92.9,Pass
+S085,Student_85,Female,24,Computer Science,2019,7,55.4,88.2,Pass
+S086,Student_86,Female,24,Electrical,2019,3,81.8,63.3,Fail
+S087,Student_87,Male,20,Mechanical,2021,6,87.4,63.4,Fail
+S088,Student_88,Male,23,Civil,2022,1,57.7,99.5,Pass
+S089,Student_89,Male,18,Computer Science,2020,4,84.5,75.0,Pass
+S090,Student_90,Male,24,Electrical,2020,2,76.2,74.8,Fail
+S091,Student_91,Female,19,Computer Science,2021,8,82.3,92.5,Pass
+S092,Student_92,Female,24,Computer Science,2021,4,98.5,97.9,Pass
+S093,Student_93,Male,23,Mechanical,2019,2,66.3,99.4,Pass
+S094,Student_94,Female,24,Electronics,2022,6,58.7,90.1,Pass
+S095,Student_95,Male,19,Mechanical,2020,6,56.7,75.1,Pass
+S096,Student_96,Female,18,Mechanical,2021,6,57.8,63.3,Fail
+S097,Student_97,Female,24,Mechanical,2021,2,68.8,91.1,Pass
+S098,Student_98,Male,24,Computer Science,2022,4,75.1,82.3,Pass
+S099,Student_99,Male,24,Civil,2020,6,74.2,77.0,Pass
+S100,Student_100,Male,24,Civil,2021,5,82.4,96.3,Pass
+S101,Student_101,Female,24,Mechanical,2020,7,70.2,64.4,Fail
+S102,Student_102,Male,23,Mechanical,2022,2,91.8,79.7,Pass
+S103,Student_103,Female,20,Computer Science,2021,2,66.0,60.5,Fail
+S104,Student_104,Female,23,Electronics,2022,4,100.0,78.7,Pass
+S105,Student_105,Female,18,Computer Science,2021,2,79.4,62.3,Fail
+S106,Student_106,Male,22,Electrical,2019,2,57.1,64.8,Fail
+S107,Student_107,Male,22,Civil,2021,6,53.9,64.7,Fail
+S108,Student_108,Female,21,Electronics,2019,4,77.2,86.0,Pass
+S109,Student_109,Female,22,Mechanical,2021,6,66.6,89.8,Pass
+S110,Student_110,Male,23,Civil,2019,7,80.7,83.3,Pass
+S111,Student_111,Male,20,Civil,2019,8,77.1,98.5,Pass
+S112,Student_112,Female,22,Electrical,2019,7,68.9,75.0,Pass
+S113,Student_113,Female,22,Electrical,2022,8,57.3,71.4,Fail
+S114,Student_114,Female,21,Electrical,2020,6,47.3,94.7,Pass
+S115,Student_115,Male,21,Civil,2020,7,63.3,68.9,Fail
+S116,Student_116,Female,21,Electronics,2019,4,82.8,98.5,Pass
+S117,Student_117,Female,20,Mechanical,2022,1,73.2,60.5,Fail
+S118,Student_118,Female,21,Civil,2022,6,51.3,98.8,Pass
+S119,Student_119,Male,22,Civil,2020,8,72.6,61.7,Fail
+S120,Student_120,Male,20,Electronics,2021,5,75.8,95.6,Pass
+S121,Student_121,Male,24,Mechanical,2021,8,56.7,81.1,Pass
+S122,Student_122,Male,24,Mechanical,2020,5,72.3,99.7,Pass
+S123,Student_123,Male,18,Mechanical,2022,2,70.9,63.0,Fail
+S124,Student_124,Male,21,Civil,2020,7,52.9,82.2,Pass
+S125,Student_125,Female,21,Civil,2020,5,75.4,98.8,Pass
+S126,Student_126,Male,23,Computer Science,2019,8,78.4,80.9,Pass
+S127,Student_127,Female,19,Mechanical,2022,2,86.2,85.2,Pass
+S128,Student_128,Male,22,Mechanical,2019,1,85.8,87.8,Pass
+S129,Student_129,Female,19,Civil,2021,4,49.3,78.2,Pass
+S130,Student_130,Female,22,Electronics,2022,4,55.9,85.1,Pass
+S131,Student_131,Female,19,Civil,2022,4,77.7,83.4,Pass
+S132,Student_132,Female,24,Mechanical,2021,5,77.7,96.0,Pass
+S133,Student_133,Female,23,Mechanical,2021,1,77.7,61.8,Fail
+S134,Student_134,Female,18,Electrical,2020,5,100.0,71.2,Fail
+S135,Student_135,Female,20,Electrical,2019,7,78.6,98.0,Pass
+S136,Student_136,Male,19,Mechanical,2022,5,87.0,95.6,Pass
+S137,Student_137,Male,23,Mechanical,2019,1,84.3,78.2,Pass
+S138,Student_138,Female,21,Electrical,2022,1,79.8,84.8,Pass
+S139,Student_139,Female,18,Mechanical,2022,7,65.3,71.1,Fail
+S140,Student_140,Female,24,Electronics,2019,1,81.4,67.5,Fail
+S141,Student_141,Female,21,Computer Science,2021,8,58.4,78.5,Pass
+S142,Student_142,Female,24,Civil,2022,1,66.4,74.1,Fail
+S143,Student_143,Male,21,Mechanical,2021,4,62.7,83.3,Pass
+S144,Student_144,Female,21,Computer Science,2022,8,71.2,63.1,Fail
+S145,Student_145,Female,23,Civil,2020,8,100.0,99.0,Pass
+S146,Student_146,Female,19,Electronics,2019,7,42.0,99.4,Pass
+S147,Student_147,Female,22,Electronics,2019,3,80.3,87.9,Pass
+S148,Student_148,Male,23,Civil,2020,3,45.8,81.4,Pass
+S149,Student_149,Female,19,Computer Science,2021,1,62.9,72.4,Fail
+S150,Student_150,Female,20,Mechanical,2022,8,86.3,92.6,Pass
+S151,Student_151,Female,20,Civil,2021,3,71.0,87.4,Pass
+S152,Student_152,Female,20,Computer Science,2022,3,53.8,66.5,Fail
+S153,Student_153,Male,23,Electronics,2019,1,59.3,96.4,Pass
+S154,Student_154,Female,19,Computer Science,2019,3,80.2,92.9,Pass
+S155,Student_155,Male,19,Mechanical,2019,5,59.0,98.0,Pass
+S156,Student_156,Male,19,Mechanical,2022,2,73.2,89.0,Pass
+S157,Student_157,Male,22,Mechanical,2022,7,70.7,84.5,Pass
+S158,Student_158,Female,24,Electrical,2020,2,60.2,76.7,Pass
+S159,Student_159,Male,24,Mechanical,2021,1,100.0,97.3,Pass
+S160,Student_160,Male,22,Computer Science,2021,4,79.5,94.6,Pass
+S161,Student_161,Female,21,Mechanical,2019,7,39.6,61.8,Fail
+S162,Student_162,Male,18,Electrical,2019,1,72.8,61.1,Fail
+S163,Student_163,Male,20,Electronics,2022,8,60.1,75.1,Pass
+S164,Student_164,Female,18,Electronics,2021,4,82.8,92.4,Pass
+S165,Student_165,Male,24,Civil,2022,2,58.1,99.5,Pass
+S166,Student_166,Male,21,Electrical,2022,1,68.3,66.0,Fail
+S167,Student_167,Male,21,Mechanical,2021,8,77.6,83.8,Pass
+S168,Student_168,Female,21,Civil,2021,7,83.0,75.2,Pass
+S169,Student_169,Female,24,Mechanical,2019,7,52.0,98.8,Pass
+S170,Student_170,Female,21,Mechanical,2022,6,65.0,93.7,Pass
+S171,Student_171,Female,20,Computer Science,2022,8,62.9,93.5,Pass
+S172,Student_172,Female,19,Civil,2020,5,60.2,78.7,Pass
+S173,Student_173,Female,24,Electrical,2021,3,96.5,76.6,Pass
+S174,Student_174,Female,22,Electrical,2019,4,76.1,70.9,Fail
+S175,Student_175,Male,18,Mechanical,2022,8,51.1,62.3,Fail
+S176,Student_176,Female,22,Mechanical,2022,6,83.8,94.6,Pass
+S177,Student_177,Female,21,Computer Science,2019,3,100.0,92.5,Pass
+S178,Student_178,Female,19,Civil,2020,3,85.5,100.0,Pass
+S179,Student_179,Female,23,Electronics,2021,1,47.2,99.9,Pass
+S180,Student_180,Female,22,Electronics,2021,3,62.7,82.2,Pass
+S181,Student_181,Female,23,Electronics,2021,5,89.0,90.8,Pass
+S182,Student_182,Female,23,Civil,2021,7,59.4,97.8,Pass
+S183,Student_183,Female,20,Mechanical,2019,6,76.7,94.0,Pass
+S184,Student_184,Male,20,Computer Science,2020,3,81.6,69.9,Fail
+S185,Student_185,Male,19,Civil,2021,1,56.1,78.0,Pass
+S186,Student_186,Female,18,Mechanical,2021,5,69.1,65.2,Fail
+S187,Student_187,Male,20,Mechanical,2021,2,21.4,98.2,Fail
+S188,Student_188,Male,23,Electronics,2020,7,54.6,84.2,Pass
+S189,Student_189,Female,18,Computer Science,2021,7,66.2,69.1,Fail
+S190,Student_190,Male,23,Civil,2019,6,51.3,86.9,Pass
+S191,Student_191,Male,22,Electrical,2022,7,94.5,84.7,Pass
+S192,Student_192,Female,21,Electrical,2020,3,48.5,74.3,Fail
+S193,Student_193,Male,20,Civil,2019,1,63.4,64.5,Fail
+S194,Student_194,Male,21,Civil,2019,7,72.0,86.9,Pass
+S195,Student_195,Male,19,Mechanical,2021,7,91.6,80.8,Pass
+S196,Student_196,Male,19,Computer Science,2022,2,48.5,90.9,Pass
+S197,Student_197,Male,24,Electronics,2022,2,87.4,80.8,Pass
+S198,Student_198,Female,21,Electrical,2022,4,70.2,94.1,Pass
+S199,Student_199,Female,22,Electronics,2019,5,55.3,82.1,Pass
+S200,Student_200,Male,24,Mechanical,2020,3,76.9,82.4,Pass
